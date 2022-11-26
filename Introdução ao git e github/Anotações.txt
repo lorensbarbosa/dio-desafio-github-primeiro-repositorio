@@ -1,0 +1,24 @@
+Link para downloand do  git : https://git-scm.com/downloads
+
+Comandos básicos do Git 
+
+LS - listar pastas 
+CD (nome da pasta)
+cd(sub pasta)
+
+
+- Dir ou LS- Listar pastas 
+- Comando CD - procurar pastas
+-Control L - limpar terminal 
+- Criar pastar: MKDIR(Nome da pasta)
+- Del - Deletar aquivos 
+- RM DIR ou RM-RF deleta repositorio 
+
+- Abrir pasta oculta:
+-Dir -a ou LS -a
+
+Primeiros comandos do Git 
+
+- Git init - Criar repositorios
+- Git add - Adicionar pasta no repositorio
+- Git commit - 
